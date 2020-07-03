@@ -4,13 +4,13 @@
     "description": "Conectando pessoas e pets 💜",
     "icons": [
         {
-            "src": "/img/icons-192.png",
-            "type": "image/png",
+            "src": "/img/logo-gradient.jpeg",
+            "type": "image/jpeg",
             "sizes": "192x192"
         },
         {
-            "src": "/img/icons-512.png",
-            "type": "image/png",
+            "src": "/img/logo-gradient.jpeg",
+            "type": "image/jpeg",
             "sizes": "512x512"
         }
     ],
