@@ -1,0 +1,22 @@
+{
+    "short_name": "Entre Patas",
+    "name": "Entre Patas: Conectando pessoas e pets 💜",
+    "description": "Conectando pessoas e pets 💜",
+    "icons": [
+        {
+            "src": "/img/icons-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/icons-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/?source=pwa",
+    "background_color": "#6666CC",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#6666CC"
+}

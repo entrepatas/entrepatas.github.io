@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Entre Patas</title>
-    <meta name="description" content="Entre Patas | Conectando pessoas e pets com amor">
+    <meta name="description" content="Entre Patas | Conectando pessoas e pets 💜">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/img/favicon.png">
+    <link rel="manifest" href="/manifest.webmanifest">
 </head>
 
 <body>
